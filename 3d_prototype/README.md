@@ -8,14 +8,14 @@
 
 Here’s a sneak peek into our first hardware prototype designs:
 
-| Design | Preview |
-|:------|:--------|
-| Prototype 1 | ![Prototype 1](3d_prototype/design1.jpg) |
-| Prototype 2 | ![Prototype 2](3d_prototype/design2.jpg) |
-| Prototype 3 | ![Prototype 3](3d_prototype/design3.jpg) |
-| Prototype 4 | ![Prototype 4](3d_prototype/design4.jpg) |
-| Prototype 5 | ![Prototype 5](3d_prototype/design5.jpg) |
-| Prototype 6 | ![Prototype 6](3d_prototype/design6.jpg) |
+| Design      | Preview                                               |
+| :---------- | :---------------------------------------------------- |
+| Prototype 1 | ![Prototype 1](3d_prototype/3d_prototype/design1.jpg) |
+| Prototype 2 | ![Prototype 2](3d_prototype/3d_prototype/design2.jpg) |
+| Prototype 3 | ![Prototype 3](3d_prototype/design3.jpg)              |
+| Prototype 4 | ![Prototype 4](3d_prototype/design4.jpg)              |
+| Prototype 5 | ![Prototype 5](3d_prototype/design5.jpg)              |
+| Prototype 6 | ![Prototype 6](3d_prototype/design6.jpg)              |
 
 ---
 
@@ -59,17 +59,17 @@ Here’s a sneak peek into our first hardware prototype designs:
 
 ## 👥 Team DoseBuddy
 
-| Role | Member |
-|:----|:-------|
-| Lead Developer | Kritika |
-| Hardware Engineer | Yash |
-| Software Integrator | Adit Ghosh |
-| Research Analyst | All Contributed |
-| Project Manager | All |
+| Role                | Member          |
+| :------------------ | :-------------- |
+| Lead Developer      | Kritika         |
+| Hardware Engineer   | Yash            |
+| Software Integrator | Adit Ghosh      |
+| Research Analyst    | All Contributed |
+| Project Manager     | All             |
 
 ---
 
-> ✨ *Built with resilience, passion, and innovation by Team DoseBuddy.* ✨
+> ✨ _Built with resilience, passion, and innovation by Team DoseBuddy._ ✨
 
 ---
 
@@ -83,3 +83,4 @@ DoseBuddy/
 ├── hardware/          # Circuit diagrams and hardware schematics
 ├── README.md          # Project README file
 └── LICENSE            # License file (optional)
+```
