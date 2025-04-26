@@ -8,13 +8,13 @@
 
 Here’s a sneak peek into our first hardware prototype designs:
 
-| Design      | Preview                                  |
-| :---------- | :--------------------------------------- |
-| Prototype 1 | ![Prototype 1](https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design1.jpg) |
-| Prototype 2 | ![Prototype 2](https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design2.jpg) |
-| Prototype 3 | ![Prototype 3](https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design3.jpg) |
-| Prototype 4 | ![Prototype 4](https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design4.jpg) |
-| Prototype 5 | ![Prototype 5](https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design5.jpg) |
+| Design      | Preview |
+| :---------- | :------- |
+| Prototype 1 | <img src="https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design1.jpg" width="300"/> |
+| Prototype 2 | <img src="https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design2.jpg" width="300"/> |
+| Prototype 3 | <img src="https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design3.jpg" width="300"/> |
+| Prototype 4 | <img src="https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design4.jpg" width="300"/> |
+| Prototype 5 | <img src="https://raw.githubusercontent.com/IOT-DevX-Corp/dosebuddy-final/master/3d_prototype/design5.jpg" width="300"/> |
 
 ---
 
